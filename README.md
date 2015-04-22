@@ -1,2 +1,4 @@
-# maya-nurbs-control-color-dialog
-Quick dialog for setting a custom colour on nurbs controllers
+# Nurbs control color dialog
+
+Dialog for setting a custom colour on nurbs controllers.
+
